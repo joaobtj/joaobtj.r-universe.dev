@@ -2,5 +2,9 @@
   {
     "package": "irritool",
     "url": "https://github.com/joaobtj/irritool"
+  },
+  {
+    "package": "hf",
+    "url": "https://github.com/joaobtj/hf"
   }
 ]
